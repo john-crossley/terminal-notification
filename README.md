@@ -14,7 +14,7 @@ That's pretty much it everything should work. Oh if you want the success and fai
 `mkdir ~/.ttest/img` Place an error icon called **red.png** and a success icon called **green.png**
 
 ### Example Image
-![Example Image](https://github.com/john-crossley/terminal-notification/blob/master/example.png)
+![Example Image](https://raw.github.com/john-crossley/terminal-notification/master/example.png)
 
 
 This application assumes you have your directory structure like so:
